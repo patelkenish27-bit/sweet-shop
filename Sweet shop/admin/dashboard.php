@@ -291,7 +291,7 @@ if (!isset($_SESSION['admin_id'])) {
 
             </div>
 
-            <!-- ================= Recent Orders ================= -->
+            <!--- Recent Orders --->
 
             <div class="card shadow mt-4">
 
